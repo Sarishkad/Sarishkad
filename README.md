@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;AI+%26+Robotics+Developer;Drone+Technology+Enthusiast;Qt+%2B+C%2B%2B+Developer;Computer+Vision+Explorer;Building+Intelligent+Autonomous+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer;AI+%26+Robotics+Developer;Drone+Technology+Enthusiast;Qt+%2B+C%2B%2B+Developer;Computer+Vision+Explorer;Building+Intelligent+Autonomous+Systems+🚀" />
 
 </div>
 
