@@ -57,13 +57,51 @@
 
 <div align="center">
 
-### 🚀 Current Focus Areas
+# 🚀 Current Focus
 
-🛸 Drone Detection & Telemetry Systems  
-🤖 Robotics & Autonomous Navigation  
-👁️ AI-Powered Computer Vision  
-⚙️ Embedded Linux & Edge AI Development  
-📡 IoT & Real-Time Communication Systems  
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🛸
+**Drone Systems**  
+Telemetry • Detection • Autonomous Flight
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+**Robotics**  
+ROS2 • SLAM • Navigation Stack
+
+</td>
+
+<td align="center" width="20%">
+
+### 👁️
+**Computer Vision**  
+YOLOv8 • OpenCV • Edge AI
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+**Embedded AI**  
+ESP32 • Raspberry Pi • Linux
+
+</td>
+
+<td align="center" width="20%">
+
+### 📡
+**IoT & Communication**  
+MAVLink • MQTT • Real-Time Systems
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -71,19 +109,31 @@
 
 <div align="center">
 
-🌐 **Portfolio:**  
-🔗 https://sarishkadportfolio.vercel.app/
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Currently+Building+AI-Powered+Drone+%26+Robotics+Systems;Developing+Real-Time+Telemetry+%26+Detection+Dashboards;Exploring+ROS2+%2B+PX4+%2B+SLAM+Technologies;Passionate+About+Embedded+AI+and+Autonomous+Systems" />
 
 </div>
 
-- 🔭 Currently working on **Drone Detection & Telemetry Dashboard**
-- 🤖 Exploring **ROS2, PX4, SLAM, YOLOv8 & Edge AI**
-- 🧠 Passionate about **Embedded Systems, Robotics & Computer Vision**
-- ⚡ Skilled in **Qt, C++, Python, ESP32, Raspberry Pi & AI Integration**
-- 🌐 Portfolio: **https://sarishkadportfolio.vercel.app/**
-- 📚 Always learning and experimenting with new technologies
-
 ---
+
+<div align="center">
+
+### 🌐 Portfolio & Projects
+
+<a href="https://sarishkadportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ Building intelligent systems where **AI, Robotics, Embedded Systems & Innovation** work together ✨
+
+</div>
+
+--- 
 
 ## 🌐 Connect With Me
 
