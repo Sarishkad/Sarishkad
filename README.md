@@ -308,16 +308,11 @@ MAVLink • MQTT • Real-Time Systems
 
 ---
 
-## 💭 Developer Mindset
+## ✍️ Developer Quote
 
 <div align="center">
 
-> ### “When something is important enough, you do it even if the odds are not in your favor.”
-> — **Elon Musk**
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor.;—+Elon+Musk)
 
 </div>
 
