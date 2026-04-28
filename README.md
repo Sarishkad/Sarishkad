@@ -278,7 +278,7 @@ MAVLink • MQTT • Real-Time Systems
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Sarishkad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sarishkad&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sarishkad&theme=tokyonight&hide_border=true)
 
