@@ -308,11 +308,13 @@ MAVLink • MQTT • Real-Time Systems
 
 ---
 
-## ✍️ Developer Quote
+---
+
+## ✍️ Engineer Mindset
 
 <div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor.;—+Elon+Musk)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20something%20is%20important%20enough,%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk" />
 
 </div>
 
