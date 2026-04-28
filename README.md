@@ -278,11 +278,11 @@ MAVLink • MQTT • Real-Time Systems
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Sarishkad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarishkad&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarishkad&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -292,7 +292,7 @@ MAVLink • MQTT • Real-Time Systems
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Sarishkad&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
@@ -302,7 +302,7 @@ MAVLink • MQTT • Real-Time Systems
 
 <div align="center">
 
-[![Sarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Sarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarishkad&theme=tokyo-night)](https://github.com/Sarishkad)
 
 </div>
 
@@ -322,6 +322,6 @@ MAVLink • MQTT • Real-Time Systems
 
 ### 🚀 "Building Intelligent Systems Through Code, Electronics & Innovation"
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sarishkad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
