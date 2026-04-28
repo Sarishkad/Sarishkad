@@ -265,7 +265,7 @@ MAVLink • MQTT • Real-Time Systems
 ### 🚧 AI-Based Pothole Detection System
 - Real-time pothole detection using YOLOv8
 - RTSP camera integration with detection logging
-- Telegram notification system for alerts
+- Alert notification system for alerts
 
 ### 🤖 Robotics & Embedded Projects
 - ESP32 & Raspberry Pi automation systems
