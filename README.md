@@ -17,26 +17,64 @@
 
 ## 💫 About Me
 
-```cpp
-class SarishKad {
-public:
-    string role = "Embedded Systems & AI Developer";
-    string education = "Industrial Electronics + AI & ML";
-    string internship = "Embedded Systems & Robotics Intern @ PGTechLabs";
+<div align="center">
 
-    vector<string> interests = {
-        "Embedded Linux",
-        "Robotics & Drones",
-        "Qt / C++ Development",
-        "Computer Vision & AI",
-        "ROS2 & PX4",
-        "Industrial Automation",
-        "Web Development"
-    };
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;AI+%26+Robotics+Developer;Drone+Technology+Enthusiast;Qt+%2B+C%2B%2B+Developer;Computer+Vision+Explorer;Building+Intelligent+Autonomous+Systems+🚀" />
 
-    string currentFocus = "Building AI-powered robotics and drone systems";
-};
-```
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="55%" align="left">
+
+### 👨‍💻 Who Am I?
+
+🚀 Passionate about building **AI-powered robotics and embedded systems**  
+
+🤖 Exploring the world of **ROS2, PX4, SLAM, Computer Vision & Autonomous Drones**  
+
+🧠 Skilled in **Qt, C++, Python, Embedded Linux, ESP32 & Raspberry Pi**  
+
+⚡ Developing real-time intelligent systems combining **AI + Electronics + Robotics**  
+
+🌱 Continuously learning and experimenting with cutting-edge technologies in robotics and automation  
+
+🎯 Focused on creating impactful solutions in **Embedded AI, Drone Tech & Industrial Automation**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 Current Focus Areas
+
+🛸 Drone Detection & Telemetry Systems  
+🤖 Robotics & Autonomous Navigation  
+👁️ AI-Powered Computer Vision  
+⚙️ Embedded Linux & Edge AI Development  
+📡 IoT & Real-Time Communication Systems  
+
+</div>
+
+<br>
+
+<div align="center">
+
+🌐 **Portfolio:**  
+🔗 https://sarishkadportfolio.vercel.app/
+
+</div>
 
 - 🔭 Currently working on **Drone Detection & Telemetry Dashboard**
 - 🤖 Exploring **ROS2, PX4, SLAM, YOLOv8 & Edge AI**
