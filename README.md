@@ -35,7 +35,7 @@
 
 🤖 Exploring the world of **ROS2, PX4, SLAM, Computer Vision & Autonomous Drones**  
 
-🧠 Skilled in **Qt, C++, Python, Embedded Linux, ESP32 & Raspberry Pi**  
+🧠 Skilled in **C++, Python, Embedded Linux, ESP32 & Raspberry Pi**  
 
 ⚡ Developing real-time intelligent systems combining **AI + Electronics + Robotics**  
 
