@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Sarish+Kad+👋;Embedded+Systems+%7C+AI+%7C+Robotics+Engineer;Qt+%2B+C%2B%2B+Developer;Drone+%26+Computer+Vision+Enthusiast;Building+Smart+Systems+with+AI+%26+Electronics;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Sarish+Kad+👋;Embedded+Systems+%7C+AI+%7C+Robotics+Engineer;Python+%2B+C%2B%2B+Developer;Drone+%26+Computer+Vision+Enthusiast;Building+Smart+Systems+with+AI+%26+Electronics;Always+Learning+Something+New+🚀" />
 </div>
 
 ---
